@@ -2,7 +2,7 @@ import Banner from "./components/Banner"
 import Category from "./components/Category"
 import Footer from "./components/Footer"
 import Header from "./components/Header"
-import Home from "./components/Home"
+import Hero from "./components/Hero"
 import Insta from "./components/Insta"
 import Products from "./components/Products"
 import Reviews from "./components/Reviews"
@@ -15,7 +15,7 @@ function App() {
   return (
     <>
      <Header />
-     <Home />
+     <Hero />
      <Category />
      <Types />
      <Services />
