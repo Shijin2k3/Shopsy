@@ -44,7 +44,7 @@ const Hero = () => {
            className='text-white text-2xl '
            >100% trusted <span className='text-yellow-300 font-semibold'>Electronics Gadgets</span></h1>
            <button data-aos="zoom-in" data-aos-delay="120"
-            className='bg-yellow-300 px-6 py-3 text-black font-semibold rounded-lg'>ONLINE COLLECTIONS</button>
+            className='bg-yellow-300 px-6 py-3 text-black font-semibold rounded-lg cursor-pointer'>ONLINE COLLECTIONS</button>
           </div>
         </div>
         <div>
@@ -61,7 +61,7 @@ const Hero = () => {
            className='text-white text-2xl '
            >100% trusted <span className='text-yellow-300 font-semibold'>Electronics Gadgets</span></h1>
            <button data-aos="zoom-in" data-aos-delay="120"
-            className='bg-yellow-300 px-6 py-3 text-black font-semibold rounded-lg'>ONLINE COLLECTIONS</button>
+            className='bg-yellow-300 px-6 py-3 text-black font-semibold rounded-lg cursor-pointer'>ONLINE COLLECTIONS</button>
           </div>/
         </div>
         <div>
@@ -78,7 +78,7 @@ const Hero = () => {
            className='text-white text-2xl '
            >100% trusted <span className='text-yellow-300 font-semibold'>Electronics Gadgets</span></h1>
            <button data-aos="zoom-in" data-aos-delay="120"
-            className='bg-yellow-300 px-6 py-3 text-black font-semibold rounded-lg'>ONLINE COLLECTIONS</button>
+            className='bg-yellow-300 px-6 py-3 text-black font-semibold rounded-lg cursor-pointer'>ONLINE COLLECTIONS</button>
           </div>
         </div>
 
