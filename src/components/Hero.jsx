@@ -47,6 +47,41 @@ const Hero = () => {
             className='bg-yellow-300 px-6 py-3 text-black font-semibold rounded-lg'>ONLINE COLLECTIONS</button>
           </div>
         </div>
+        <div>
+          <div className='w-full lg:px:20 px-5 lg:h-[700px] h-[600px] flex
+          flex-col justify-center items-start gap-10 bg-cover bg-center'
+          style={{backgroundImage:`url(${headset})`}}>
+            <h1 data-aos="zoom-in" data-aos-delay="50"
+            className='text-yellow-300 border-2 rounded-lg border-yellow-300
+            px-6 py-2 text-xl'>Get Upto Discounts 60% off</h1>
+            <h1 data-aos="zoom-in" data-aos-delay="80"
+            className='text-white lg:text-[120px] text-[60px]
+            uppercase font-bold lg:leading-[120px] leading-[70px]'>Bluetooth <br /> Headset</h1>
+           <h1 data-aos="zoom-in" data-aos-delay="80"
+           className='text-white text-2xl '
+           >100% trusted <span className='text-yellow-300 font-semibold'>Electronics Gadgets</span></h1>
+           <button data-aos="zoom-in" data-aos-delay="120"
+            className='bg-yellow-300 px-6 py-3 text-black font-semibold rounded-lg'>ONLINE COLLECTIONS</button>
+          </div>/
+        </div>
+        <div>
+          <div className='w-full lg:px:20 px-5 lg:h-[700px] h-[600px] flex
+          flex-col justify-center items-start gap-10 bg-cover bg-center'
+          style={{backgroundImage:`url(${earbuds})`}}>
+            <h1 data-aos="zoom-in" data-aos-delay="50"
+            className='text-yellow-300 border-2 rounded-lg border-yellow-300
+            px-6 py-2 text-xl'>Get Upto Discounts 60% off</h1>
+            <h1 data-aos="zoom-in" data-aos-delay="80"
+            className='text-white lg:text-[120px] text-[60px]
+            uppercase font-bold lg:leading-[120px] leading-[70px]'>Wirelsess <br /> Earbuds</h1>
+           <h1 data-aos="zoom-in" data-aos-delay="80"
+           className='text-white text-2xl '
+           >100% trusted <span className='text-yellow-300 font-semibold'>Electronics Gadgets</span></h1>
+           <button data-aos="zoom-in" data-aos-delay="120"
+            className='bg-yellow-300 px-6 py-3 text-black font-semibold rounded-lg'>ONLINE COLLECTIONS</button>
+          </div>
+        </div>
+
 
       </Slider>
     </div>
