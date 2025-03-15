@@ -28,7 +28,7 @@ const Types = () => {
         text-black cursor-pointer font-semibold'>Shop Now</button>
       </div>
 
-      <div data-aos="zoom-in" data-aos-delay='100' className='
+      <div data-aos="zoom-in" data-aos-delay='150' className='
       flex  flex-col justify-center items-end gap-6 bg-cover p-10 rounded-lg
       ' style={{backgroundImage:`url(${banner2})`}}>
         <h1 className='text-yellow-300 border-[2px] rounded-lg border-yellow-300
@@ -38,7 +38,7 @@ const Types = () => {
         text-black cursor-pointer font-semibold'>Shop Now</button>
       </div>
 
-      <div data-aos="zoom-in" data-aos-delay='100' className='
+      <div data-aos="zoom-in" data-aos-delay='200' className='
       flex  flex-col justify-center items-end gap-6 bg-cover p-10 rounded-lg
       ' style={{backgroundImage:`url(${banner3})`}}>
         <h1 className='text-yellow-300 border-[2px] rounded-lg border-yellow-300
