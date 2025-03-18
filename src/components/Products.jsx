@@ -49,9 +49,9 @@ const Products = () => {
               <h1 className='text-lg text-gray-400 font-semibold'>{item.category}</h1>
               <h1 className='text-xl font-semibold text-black'>{item.name}</h1>
               <h1 className='text-lg text-purple-800 font-semibold'>{item.price}</h1>
-              <div className='w-full mt-2'>
+              <div className='w-full mt-0.5'>
                 <hr  className='text-gray-300'/>
-                <div className='flex justify-between items-center gap-6 mt-3'>
+                <div className='flex justify-between items-center gap-6 mt-2'>
                   <div className='flex justify-start items-center gap-1'>
                     <FaStar className='text-purple-800'/>
                     <FaStar className='text-purple-800'/>
