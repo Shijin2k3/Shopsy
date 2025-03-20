@@ -51,7 +51,7 @@ const Footer = () => {
          grow'>
 
           <div className='flex flex-col justify-center items-start gap-4'>
-            <h1 className='text-4xl font-bold text-purple-600 italic'>Electra Shop</h1>
+            <h1 className='text-4xl font-bold text-purple-600 italic'>Shopsy</h1>
             <p className='text-gray-500 text-justify'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea quisquam maxime nisi fugit quas. Laboriosam?</p>
           </div>
           <div className=' flex flex-col justify-center items-start gap-4'>
@@ -67,30 +67,30 @@ const Footer = () => {
           <h1 className='text-black text-xl font-semibold capitalize mt-5'>Useful Links</h1>
           <ul className='mt-8 flex flex-col justify-center items-start gap-2'>
             <li className='text-gray-500 cursor-pointer hover:text-black'>Home</li>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Home</li>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Home</li>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Home</li>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Home</li>
-          </ul>
-         </div>
-         <div data-aos="zoom-in" data-aos-delay='200'>
-          <h1 className='text-black text-xl font-semibold capitalize mt-5'>Useful Links</h1>
-          <ul className='mt-8 flex flex-col justify-center items-start gap-2'>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Home</li>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Home</li>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Home</li>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Home</li>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Home</li>
-          </ul>
-         </div>
-         <div data-aos="zoom-in" data-aos-delay='200'>
-          <h1 className='text-black text-xl font-semibold capitalize mt-5'>Useful Links</h1>
-          <ul className='mt-8 flex flex-col justify-center items-start gap-2'>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Internship</li>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Courses</li>
             <li className='text-gray-500 cursor-pointer hover:text-black'>Contact</li>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Placement</li>
-            <li className='text-gray-500 cursor-pointer hover:text-black'>Online</li>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>About</li>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>Products</li>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>Review</li>
+          </ul>
+         </div>
+         <div data-aos="zoom-in" data-aos-delay='200'>
+          <h1 className='text-black text-xl font-semibold capitalize mt-5'>Useful Links</h1>
+          <ul className='mt-8 flex flex-col justify-center items-start gap-2'>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>Trending</li>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>Sarees</li>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>Limited Offers</li>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>Offers</li>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>BestSeller</li>
+          </ul>
+         </div>
+         <div data-aos="zoom-in" data-aos-delay='200'>
+          <h1 className='text-black text-xl font-semibold capitalize mt-5'>Useful Links</h1>
+          <ul className='mt-8 flex flex-col justify-center items-start gap-2'>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>Home Delivery</li>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>Refund</li>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>Contact</li>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>Gift Cards</li>
+            <li className='text-gray-500 cursor-pointer hover:text-black'>Online Booking</li>
           </ul>
          </div>
          <div data-aos="zoom-in" data-aos-delay='200'>

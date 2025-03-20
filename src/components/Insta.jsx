@@ -38,7 +38,7 @@ const Insta = () => {
        <button data-aos="zoom-in" data-aos-delay='300'
        className='bg-purple-700 hover:bg-yellow-400 text-white 
         hover:text-black font-semibold px-8 py-3 rounded-lg mt-12 
-         uppercase'>#ElectraShop</button>
+         uppercase'>#Shopsy</button>
     </div>
   )
 }
