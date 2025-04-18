@@ -25,10 +25,10 @@ const Header = () => {
     }
     const navItems=[
       {
-        link:'Home',path:'home'
+        link:'Home',path:'hero'
       },
       {
-        link:'About',path:'about'
+        link:'About',path:'services'
       },
       {
         link:'Products',path:'products'
@@ -37,7 +37,7 @@ const Header = () => {
         link:'Testimonials',path:'testimonials'
       },
       {
-        link:'Contact',path:'contact'
+        link:'Contact',path:'insta'
       }
     ]
   return (

@@ -19,7 +19,7 @@ const Insta = () => {
               AOS.refresh()
             },[])
   return (
-    <div className='w-full lg:px-20 px-5 py-[80px] bg-white 
+    <div id='insta' className='w-full lg:px-20 px-5 py-[80px] bg-white 
     flex flex-col justify-center items-center gap-4'>
       <h1 data-aos="zoom-in" data-aos-delay='100'
        className='text-purple-800 text-xl font-semibold capitalize'>Our Instagram Shop</h1>
